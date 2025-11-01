@@ -3,7 +3,7 @@ function About() {
     <section id="about" className="section">
       <h2>About Me</h2>
       <p>
-        Hi! I’m Rutuja — a passionate frontend developer who loves building web apps using React JS.
+        Hi! I’m Rutuja — frontend developer who loves building web apps using React JS.
       </p>
     </section>
   );
